@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yasharth Jadhav</h1>
 
-<h3 align="center">Computer Engineering Student | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">Computer Science Engineering Student | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
 Passionate about building intelligent applications using Artificial Intelligence, Machine Learning, and Deep Learning.
